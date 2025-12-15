@@ -16,7 +16,7 @@ export const puppets: Puppet[] = [
   { id: 'dan', name: 'Dan', image: '/images/dan.png' },
   { id: 'wolf', name: 'Wolf', image: '/images/wolf.png' },
   { id: 'corn', name: 'Corn', image: '/images/corn.png' },
-  { id: 'mike', name: 'Mike', image: '/images/mike.png' },
+  { id: 'mike', name: 'Prison Michael', image: '/images/mike.png' },
   { id: 'battaglia', name: 'Battaglia', image: '/images/battaglia.png' },
 ];
 
